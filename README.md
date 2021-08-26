@@ -6,3 +6,4 @@ Includes:
 - Script to clean month-to-month into a transition’s dataset at the SOCXX and NAICSXX level (clean_transitions_cps.R).
 - Scripts to develop and test functions to crunch the transition datasets (work in progresss).
 
+Important: Raw data must be downloaded from [IPUMS CPS website](https://cps.ipums.org/cps-action/data_requests/download), we only provide the code we used to clean it. 
