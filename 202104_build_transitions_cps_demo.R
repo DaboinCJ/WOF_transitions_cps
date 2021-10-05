@@ -126,7 +126,7 @@ for (i in 1:length(months)) {
     print(paste0("FAIL: ", date1))
     next} else
       
-  TransitionsW <- TransitionsW  %>% 
+      TransitionsW <- TransitionsW  %>% 
     select(OCC.x, OCC.y, SEX.x, SEX.y,RACE.x,RACE.y,AGE.x,AGE.y, 
            IND.x,IND.y, LFPROXY.x,LFPROXY.y, EMPSAME.x,EMPSAME.y,QOCC.x,QOCC.y,QIND.x,QIND.y, 
            ACTSAME.x,ACTSAME.y, EDUC.x,EDUC.y, WTFINL.x ,WTFINL.y,
