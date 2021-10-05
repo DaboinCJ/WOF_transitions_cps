@@ -1,3 +1,18 @@
+# CPS files
+raw/cps_*     
+raw/Crosswalk_naicsxx_socxx/BLS_crosswalks/
+
+
+cps_demo_*
+
+# Output files
+data/
+
+
+# scripts on progress
+functions_*
+*_new_*
+
 # History files
 .Rhistory
 .Rapp.history
