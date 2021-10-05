@@ -1,6 +1,6 @@
 # CPS files
 raw/cps_*     
-raw/Crosswalk_naicsxx_socxx/BLS_crosswalks/
+# lets show crosswalks raw/Crosswalk_naicsxx_socxx/BLS_crosswalks/
 
 
 cps_demo_*
